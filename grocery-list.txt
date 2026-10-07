@@ -2,3 +2,5 @@ milk
 chicken
 eggst
 popcorn 
+reice
+icecream
